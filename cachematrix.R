@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## For an invertible matrix x, this file contains functions to create an
+## object to contain the matrix and the functions to solve, store, and
+## retrieve the cached value for the inverse of the matrix
 
 ## makeCacheMatrix creats a special "vector", which is a list containing
 ## a function to 
